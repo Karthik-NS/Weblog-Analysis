@@ -1,5 +1,5 @@
 # Weblog-Analysis
-Analyze Weblogs using SPARK 2
+Analyze Weblogs using SPARK2
 
 Weblog Analysis:
 Weblogs
