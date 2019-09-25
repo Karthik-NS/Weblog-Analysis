@@ -57,7 +57,7 @@ KPI – 2: Count of page views by individual userTask
  Take the pre-processed weblogs as input
  Count the number of page visited by each individual user (User wise page-visit distribution)
 
-KPI – 3: Count of page views by catagery-1Task
+KPI – 3: Count of page views by category-1Task
 
  Take the pre-processed weblogs as input
  Count the number of page visited based on categories (Category wise page-visit distribution)
